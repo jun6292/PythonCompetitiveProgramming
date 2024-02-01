@@ -1,0 +1,22 @@
+# from collections import deque
+#
+# data = deque([2, 3, 4])
+# data.appendleft(1)
+# data.append(5)
+#
+# print(data)
+# print(list(data))
+#
+# data.popleft()
+# print(list(data))
+#
+# data.pop()
+# print(list(data))
+#
+from collections import Counter
+
+counter = Counter(['red', 'blue', 'red', 'green', 'blue', 'blue'])
+
+print(counter['blue'])
+print(counter['green'])
+print(dict(counter))
