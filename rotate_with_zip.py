@@ -27,6 +27,7 @@ print(arr_90)
 
 arr_180 = [a[::-1] for a in arr[::-1]]
 print(arr_180)
+
 # 12 11 10 9
 # 8  7  6  5
 # 4  3  2  1

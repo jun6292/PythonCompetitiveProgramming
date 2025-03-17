@@ -1,4 +1,4 @@
-# itertools_impl 없이 순열 구현
+# ItertoolsImpl 없이 순열 구현
 # 순서 O, 중복 X
 # visited 배열 존재 -> 순서 고려
 # parameter: 뽑을 개수, 뽑힌 값을 담는 배열
