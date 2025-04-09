@@ -1,1 +1,1 @@
-## 이코테 with Python
+## Python으로 준비해보는 코딩테스트
